@@ -1,0 +1,103 @@
+/** {
+	border: 1px solid red;
+}*/
+ body{
+	margin: 40px;
+	
+}
+.logotipo{
+	float: left;
+}
+.titulo h1{
+	text-align: center;
+}
+.dia h1{
+	text-align: center;
+}
+.dia h2{
+	text-align: center;
+}
+.container{
+	background-image: url(../img/fundo/fundo.png);
+	width:842px;
+	margin: 0 auto;
+}
+.inicio{
+	display: grid;
+	grid-template-columns: 30% 40% 30%;
+}
+.grid1{
+	display: grid;
+	grid-template-columns: 50% 50%;
+}
+.grid2{
+	display: grid;
+	grid-template-columns: 50% 50%;
+}
+.grid3{
+	display: grid;
+	grid-template-columns: 50% 50%;
+}
+.jornalista{
+	color:white;
+	background-color: #FFB350;
+	display: grid;
+	grid-template-columns: 50% 50%;
+	border: 2px solid black;
+}
+.computadores{
+	color:white;
+	background-color: #FF6B5A;
+	display: grid;
+	border: 2px solid black;
+	grid-template-columns: 50% 50%;
+}
+.workshop{
+	color:white;
+	background-color: #B83563;
+	display: grid;
+	border: 2px solid black;
+	grid-template-columns: 50% 50%;
+}
+.audiovisuais{
+	color:white;
+	background-color:#303760;
+	display: grid;
+	border: 2px solid black;
+	grid-template-columns: 50% 50%;
+		
+}
+.digital{
+	color:white;
+	background-color:#129F49;
+	display: grid;
+	border: 2px solid black;
+	grid-template-columns: 50% 50%;
+}
+.gpsi{
+	background-color: #000000;
+	color:white;
+	display: grid;
+	grid-template-columns: 50% 50%;
+	border: 2px solid black;
+}
+.informacoes{
+	text-align:right;
+	margin-right: 20px;
+}
+.titulos h1{
+	text-align: center;
+}
+.fim{
+	text-align:center;
+}
+.localizacao{
+	color:#999999;
+	display:grid;
+	grid-template-columns: 50% 50%;
+}
+.contactos{
+	color:#999999;
+	display:grid;
+	grid-template-columns: 34% 32% 32%;
+}

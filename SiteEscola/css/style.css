@@ -1,0 +1,37 @@
+body{
+	font-family: 'Nova Oval', cursive;
+	background-color: black;
+	background-image: url(../img/fundo4.jpg);
+	background-repeat: repeat;
+	background-position: center center;
+}
+.escola a:link{
+	text-decoration:none;
+} 
+.inicio h1{
+	color: white;
+}
+.inicio h2{
+	color:#8E8E8E;
+}
+.exercicios{
+	text-align:center;
+	border-top: 2px solid #666666;
+}
+.exercicio{
+	border-top: 20px;
+	background-color: #eeeeee;
+}
+.main table{
+	background-color: #eeeeee;
+	color: #686868;
+}
+.main table a:hover{
+	background-color:white;
+}
+.fim h2{
+	color:#8E8E8E;
+}
+.fim h3{
+	color:#8E8E8E;
+}

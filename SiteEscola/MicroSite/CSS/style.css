@@ -1,0 +1,52 @@
+/**{
+	border: 1px solid blue; 
+}*/
+
+body{
+	font-family: "Times New Roman", Georgia, Serif;
+}
+.col-md-9 h6{
+	text-align: center;
+}
+
+.menu{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	
+}
+.menu ul {
+	background-color:#008B00;
+	margin: 0;
+	list-style:none;
+	word-spacing: 5px;
+	font-size:1.5em;
+}
+.menu ul li { 
+	display: inline;	
+}
+.menu ul li a {
+	padding: 2px 10px;
+	display: inline-block;
+	background-color:#008B00;
+	color: #333;
+	text-decoration: none;
+	border-bottom:3px solid #EDEDED;
+}
+.menu ul li a:hover {
+	background-color:white;
+	border-bottom:3px solid #434343;
+}
+.main h2{
+	text-align: center;	
+	/*margin:20px;*/
+}
+.main table{
+	margin: 20px;
+}
+.main h3{
+	text-align: center;
+	margin: 20px;
+}
+/*.menudireito{
+	position: fixed;
+}*/

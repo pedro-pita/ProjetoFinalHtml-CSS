@@ -1,0 +1,76 @@
+body{
+	font-family: 'Nova Oval', cursive;
+}
+
+.menu{
+	margin-bottom: 20px;
+}
+.menu ul {
+	margin: 0;
+	list-style:none;
+	word-spacing: 5px;
+	font-size:1.5em;
+}
+.menu ul li { 
+	display: inline;
+}
+.menu ul li a {
+	padding: 2px 10px;
+	display: inline-block;
+	background-color:white;
+	text-decoration: none;
+	border-bottom:3px solid #999999;
+	color:black;
+}
+.menu ul li a:hover {
+	background-color:#CCCCCC;
+	border-bottom:3px solid #999999;
+}
+.titulo{
+	text-align: center;
+}
+.escolha{
+	text-align:center;
+	border-top: 3px solid #CDC5BF;
+	border-bottom: 3px solid #CDC5BF;
+}
+.input{
+	margin-bottom: -4px;
+}
+.input2{
+	margin-bottom: -4px;
+}
+.btn{
+	background-color: #CDC5BF;
+	border: 3px solid #808080;
+	margin: 20px;
+}
+.modal-content{
+	text-align:left;
+}
+.modal-content {
+    background-color: #f2f2f2;
+}
+.imagem{
+	margin-top:65px;
+}
+.ingredientes button{
+	margin-left:3px;
+}
+.preparacao button{
+	margin-left:5px;
+}
+.receitas{
+	text-align:center;
+}
+.titulos{
+	text-align:left;
+	margin-left: 40px;
+}
+.receitas{
+	border-top: 3px solid #CDC5BF;
+	border-bottom: 3px solid #CDC5BF;
+}
+.imagem{
+	margin-top: 15px;
+}
